@@ -10,7 +10,7 @@ This repository contains the first version of our work titled "Enriching Knowled
 
 To run the inferTempMetafacts.ipynb, you must:
 
-* create a local base with the YAGO files ([Download] (https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/downloads/) - YAGO files used . In addtion, a database script to load YAGO into a Postgres database is also provided in the download link. In this work, we only use some YAGO (.tsv) themes to recreate a portion of the YAGO database. These files are: 
+* create a local base with the YAGO files ([Download](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/downloads/)) - YAGO files used . In addtion, a database script to load YAGO into a Postgres database is also provided in the download link. In this work, we only use some YAGO (.tsv) themes to recreate a portion of the YAGO database. These files are: 
 ```
 - Taxonomy: yagoSchema, yagoTaxonomy, and yagoTypes.
 - CORE: yagoFacts, yagoLiteralFacts, and yagoDateFacts.

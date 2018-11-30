@@ -1,5 +1,5 @@
 import psycopg2
-from config import config
+from lib.config import config
 
 class Database:
     @staticmethod

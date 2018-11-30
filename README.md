@@ -28,4 +28,4 @@ To run the search_movies.ipynb, update the APIkeys.json file (the file can be fo
 
 ## Acknowledgments
 
-*  [Tirthajyoti Sarkar] (https://towardsdatascience.com/step-by-step-guide-to-build-your-own-mini-imdb-database-fc39af27d21b) - Step guide to search IMDb information.
+*  [Tirthajyoti Sarkar](https://towardsdatascience.com/step-by-step-guide-to-build-your-own-mini-imdb-database-fc39af27d21b) - Step guide to search IMDb information.

@@ -4,7 +4,7 @@ Enriching Knowledge Bases with Temporal Meta-facts
 
 ## Getting Started
 
-This repository contains the first version of our work titled "Enriching Knowledge Bases with Temporal Meta-facts". Since this is a work in progress, several improvements will be added later. The algorithm that implements the rules can be found in the inferTempMetafactsipynb file. We use the jupyter notebook to facilitate the reproduction of work.
+This repository contains the first version of our work titled "Enriching Knowledge Bases with Temporal Meta-facts". Since this is a work in progress, several improvements will be added later. The goal here was only to test our approach at the expense of inefficiency of running times. The algorithm that implements the rules can be found in the inferTempMetafactsipynb file. We use jupyter notebook to facilitate the reproduction of the work.
 
 ### Prerequisites
 

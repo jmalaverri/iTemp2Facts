@@ -4,7 +4,8 @@ from utils import *
 
 fname = input("Enter the file name: ")  # E.g., actedIn.txt, directed.txt ...
 file = open('outputs/'+fname, 'r')
-formattedfile = open("formatted/actedIn.csv", "w+")
+destine = re.sub('txt', 'csv', fname)
+formattedfile = open("formatted/"+destine, "w+")
 
 strmatch1 = "'<"
 strmatch2 = ">'"

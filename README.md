@@ -26,6 +26,6 @@ To run the search_movies.ipynb, update the APIkeys.json file (the file can be fo
 * Information obtained from our first analysis can be found at outputs / matches folder.
 
 
-## Acknowledgments
+## Useful links
 
 *  [Tirthajyoti Sarkar](https://towardsdatascience.com/step-by-step-guide-to-build-your-own-mini-imdb-database-fc39af27d21b) - Step guide to search IMDb information.

@@ -1,2 +1,0 @@
-Junte as tuplas de 1 a 5000 e de 8000 a 9500
-Gianluca ficou com as tuplas de 5001 a 8000 -- mas ainda não testado com as infos de IMDb

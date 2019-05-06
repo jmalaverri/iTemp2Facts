@@ -22,7 +22,7 @@ To run the inferTempMetafacts.ipynb, you must:
 To run the search_movies.ipynb, update the APIkeys.json file (the file can be found at lib folder)  with your IMDb key.
 
 ### Results
-* The meta-facts obtained can be found at the formatted folder (all files are formatted. We've compressed the files because of the size.). Files generated before being formatted are stored in "outputs" folder.
+* The meta-facts obtained can be found at the formatted folder (all files are formatted. We've compressed the files because of the size.). Files generated before being formatted are stored in "outputs".
 * The file that combines the contents of the actedIn.csv file with the IMDb information can be found at imdb folder.
 
 
